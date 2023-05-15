@@ -13,8 +13,8 @@ let myNumbers: number[] = [1, 2, 3, 4];
 let truths: boolean[] = [true, false, true];
 
 // Classes
-class Car {}
-let car: Car = new Car();
+class Cart {}
+let cart: Cart = new Cart();
 
 //  Object literal
 let point: { x: number; y: number } = {
