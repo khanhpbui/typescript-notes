@@ -1,6 +1,6 @@
 # typescript-notes
 
-The purpose of creating this repository is to document my learning journey and take notes on TypeScript.
+The purpose of creating this repository is to document my learning journey and take notes on TypeScript. Through this, I have delved into the fundamental syntax of TypeScript, covering areas such as variables, objects, functions, arrays, tuples, interfaces, and classes.
 
 ## What is TypeScript?
 
@@ -21,3 +21,6 @@ If ERRS, try:
 ```
 npm install -g typescript ts-node --force
 ```
+To run the code:
+```
+ts-node <fileName.ts>
